@@ -1,4 +1,5 @@
 # CFA-Trump-Portfolio
+![Trump portfolio website screenshot.](trump-portfolio.png)
 ## About
 Lighthearted portfolio for Donald Trump using RoR. Uses flexbox for gallery.
 
