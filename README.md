@@ -19,5 +19,5 @@ bundle
   rails s
   ```
 <ol start="4">
-<li>Navigate to *http://localhost:3000/* to view the portfolio.</li>
+<li>Navigate to http://localhost:3000/ to view the portfolio.</li>
 </ol>
