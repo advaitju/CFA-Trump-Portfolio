@@ -7,13 +7,17 @@ Lighthearted portfolio for Donald Trump using RoR. Uses flexbox for gallery.
 Needs Ruby 2.4.0 and Rails to view the portfolio.
 ### Steps
 1. Clone repo
-2. Run Bundler in repo root directory to get dependencies
+1. Run Bundler in repo root directory to get dependencies
 ```
 gem install bundler
 bundle
 ```
-3. Start Rails server
-```
-rails s
-```
-4. Navigate to *http://localhost:3000* to view the portfolio.
+<ol start="3">
+<li>Start Rails server</li>
+</ol>
+  ```
+  rails s
+  ```
+<ol start="4">
+<li>Navigate to *http://localhost:3000/* to view the portfolio.</li>
+</ol>
