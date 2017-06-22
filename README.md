@@ -14,11 +14,12 @@ gem install bundler
 bundle
 ```
 <ol start="3">
-<li>Start Rails server</li>
+  <li>Start Rails server</li>
 </ol>
-  ```
-  rails s
-  ```
+
+```
+rails s
+```
 <ol start="4">
-<li>Navigate to http://localhost:3000/ to view the portfolio.</li>
+  <li>Navigate to http://localhost:3000/ to view the portfolio.</li>
 </ol>
